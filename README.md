@@ -10,17 +10,16 @@ Aprender Ciencias de la Computación es crucial en la era digital actual por var
 
 Los siguientes temas hay que tratar de estudiarlos en orden, ademas de estudiar un promedio de 2 a 4 horas por dia.
 
-| Tema                                                   |
-| ------------------------------------------------------ | 
-| Programación Estructurda                               |
-| Programación Orientada a Objetos                       |
-| Bases de Datos                                         |
-| Estructuras de Datos                                   |
-| Analisis y Diseño de Sistemas                          |
-| Ingenieria en Software                                 |
-| Patrones de Diseño                                     |
-| Matematicas                                            |
-| Arquitectura y Organizacion de los Computadores        |
-| Lenguajes, Compiladores e Interpretes                  |
-| Sistemas Operativos                                    |
+| Tema                                              | ¿Porque Aprenderlo?                                                           |
+| ------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Programación Estructurda y Orientada a Objetos    | Son paradigmas fundamentales en la programación. La programación estructurada proporciona una base sólida para entender la lógica de programación y la modularidad, mientras que la programación orientada a objetos permite modelar problemas complejos de manera más intuitiva y reutilizable. |
+| Bases de Datos                                    | Son cruciales para almacenar y gestionar datos de manera eficiente y segura. Aprender sobre bases de datos te permite entender cómo diseñar esquemas, consultar datos de manera efectiva y garantizar la integridad de la información. 
+| Estructuras de Datos                              | Son herramientas para organizar y manipular datos de manera eficiente. Comprenderlas te ayuda a seleccionar la estructura más adecuada para cada problema, optimizando el rendimiento y el uso de recursos. |
+| Analisis y Diseño de Sistemas                     | Es fundamental para desarrollar sistemas informáticos efectivos y eficientes. Involucra la comprensión de requisitos, el diseño de arquitecturas y la planificación del desarrollo de software. |
+| Ingenieria en Software                            | Se centra en métodos y prácticas para desarrollar software de calidad, dentro de plazos y presupuestos definidos. Incluye la gestión de proyectos, la garantía de calidad y la colaboración en equipos multidisciplinarios. |
+| Patrones de Diseño                                | Son soluciones probadas para problemas comunes en el diseño de software. Conocer patrones de diseño te permite aplicar soluciones eficientes y bien estructuradas a problemas recurrentes. |
+| Matematicas                                       | Son la base teórica de muchas disciplinas informáticas, como algoritmos, criptografía, inteligencia artificial, entre otras. Comprenderlas es fundamental para desarrollar software robusto y eficiente. |
+| Arquitectura y Organizacion de los Computadores   | Proporciona conocimientos sobre cómo funciona el hardware de los computadores. Esto es esencial para entender las limitaciones y capacidades del software que se desarrolla. |
+| Lenguajes, Compiladores e Interpretes             | Son herramientas básicas para desarrollar software. Conocer cómo funcionan los lenguajes de programación, los compiladores (que traducen código a lenguaje de máquina) y los intérpretes (que ejecutan código directamente) es esencial para ser un desarrollador efectivo. |
+| Sistemas Operativos                               | Son la interfaz entre el hardware y el software de una computadora. Entender los sistemas operativos te permite desarrollar software que interactúe eficientemente con el hardware y los recursos del sistema. |
 
