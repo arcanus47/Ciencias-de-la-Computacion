@@ -22,6 +22,5 @@ Los siguientes temas hay que tratar de estudiarlos en orden, ademas de estudiar 
 | Matematicas                                            |
 | Arquitectura y Organizacion de los Computadores        |
 | Lenguajes, Compiladores e Interpretes                  |
-| Arquitectura y Organizacion de los Computadores        |
 | Sistemas Operativos                                    |
 
