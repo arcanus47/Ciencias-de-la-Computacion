@@ -4,7 +4,7 @@
 ## ¿Por qué aprender Ciencias de la computación?
 <p align="justify">Aprender Ciencias de la Computación es crucial en la era digital actual por varias razones fundamentales. Primero, proporciona las habilidades necesarias para entender y utilizar tecnologías avanzadas que están transformando todos los aspectos de nuestra sociedad, desde la comunicación hasta la medicina y la educación. Segundo, fomenta el pensamiento crítico y la resolución de problemas, habilidades esenciales en cualquier campo profesional. Además, abre oportunidades laborales en un mercado global cada vez más orientado hacia la tecnología. Finalmente, estudiar Ciencias de la Computación promueve la creatividad y la innovación, permitiendo a las personas crear nuevas soluciones y contribuir al progreso tecnológico y social de manera significativa.</p>
 
-## Areas para aprender:
+## Temas para aprender:
 <p align="justify">Los siguientes temas hay que tratar de estudiarlos en orden, ademas de estudiar un promedio de 2 a 4 horas por dia.<p>
 
 | Tema                                              | ¿Porque Aprenderlo?                                                           |
