@@ -1,0 +1,17 @@
+------------------------------------------------------------
+| ENSEÑATE DE FORMA AUTODIDACTA CIENCIAS DE LA COMPUTACION |
+------------------------------------------------------------
+
+INDICE GENERAL:
+
+1. Programación Estructurada
+2. Programación Orientada a Objetos
+3. Bases de Datos
+4. Patrones de Diseño
+5. Estructuras de Datos
+6. Análisis y Diseño de Sistemas
+7. Ingeniería en Software
+8. Matemáticas
+9. Arquitectura y Organización de los Computadores
+10. Lenguajes, Compiladores e Interpretes
+11. Sistemas Operativos
