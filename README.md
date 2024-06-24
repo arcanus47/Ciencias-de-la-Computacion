@@ -9,7 +9,7 @@
 
 | Tema                                              | ¿Porque Aprenderlo?                                                           |
 | ------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **[Programación Estructurda](https://mega.nz/folder/5HRyERIS#tZ_tThfuQ_knVyusPOgmBw)**    | Es un paradigma fundamental en la programación. La programación estructurada proporciona una base sólida para entender la lógica de programación y la modularidad. |
+| **[Programación Estructurada](https://mega.nz/folder/5HRyERIS#tZ_tThfuQ_knVyusPOgmBw)**    | Es un paradigma fundamental en la programación. La programación estructurada proporciona una base sólida para entender la lógica de programación y la modularidad. |
 | **[Programación Orientada a Objetos](https://mega.nz/folder/8OQ3GBBA#8J5t8Vh59vrXNeTTYnFLPw)**    | Es un paradigma fundamental en la programación. La programación orientada a objetos permite modelar problemas complejos de manera más intuitiva y reutilizable. |
 | **[Bases de Datos](https://mega.nz/folder/gXh3TQib#9fkdoxIdegiNj2CKIYp4ug)**                                    | Son cruciales para almacenar y gestionar datos de manera eficiente y segura. Aprender sobre bases de datos te permite entender cómo diseñar esquemas, consultar datos de manera efectiva y garantizar la integridad de la información. 
 | **[Estructuras de Datos](https://mega.nz/folder/QfwnXRSD#Ibtu76k2cGAV1vfnAHUBiw)**                              | Son herramientas para organizar y manipular datos de manera eficiente. Comprenderlas te ayuda a seleccionar la estructura más adecuada para cada problema, optimizando el rendimiento y el uso de recursos. |
