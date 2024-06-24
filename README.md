@@ -5,7 +5,7 @@
 <p align="justify">Aprender Ciencias de la Computación es crucial en la era digital actual por varias razones fundamentales. Primero, proporciona las habilidades necesarias para entender y utilizar tecnologías avanzadas que están transformando todos los aspectos de nuestra sociedad, desde la comunicación hasta la medicina y la educación. Segundo, fomenta el pensamiento crítico y la resolución de problemas, habilidades esenciales en cualquier campo profesional. Además, abre oportunidades laborales en un mercado global cada vez más orientado hacia la tecnología. Finalmente, estudiar Ciencias de la Computación promueve la creatividad y la innovación, permitiendo a las personas crear nuevas soluciones y contribuir al progreso tecnológico y social de manera significativa.</p>
 
 ## Temas para aprender:
-<p align="justify">Los siguientes temas hay que tratar de estudiarlos en orden, además aquí está el <a href="https://mega.nz/folder/1LRBwBqK#oFhUvbHLwGqbbHXiCAHzRw">repositorio</a> , estos temas es recomendable es estudiarlos en un promedio de 2 a 4 horas por día.<p>
+<p align="justify">Los siguientes temas hay que tratar de estudiarlos en orden, además aquí está el <a href="https://mega.nz/folder/1LRBwBqK#oFhUvbHLwGqbbHXiCAHzRw">repositorio</a>, estos temas es recomendable es estudiarlos en un promedio de 2 a 4 horas por día.<p>
 
 | Tema                                              | ¿Porque Aprenderlo?                                                           |
 | ------------------------------------------------- | ----------------------------------------------------------------------------- |
