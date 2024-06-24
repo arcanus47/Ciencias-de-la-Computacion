@@ -1,4 +1,4 @@
-# Aprende Ciencias de la Computación de forma autodidacta
+<h1 align="center">Aprende Ciencias de la Computación de forma autodidacta</h1>
 <p align="justify">Las ciencias de la computación son cruciales no solo porque abren nuevas oportunidades en términos de tecnología y economía, sino que también transforman la forma en que vivimos, trabajamos, nos comunicamos y entendemos el mundo que nos rodea, asique si eres un estudiante, un profesional o un autodidacta esta guía está hecha para ti.<p>
 
 ## ¿Por qué aprender Ciencias de la computación?
